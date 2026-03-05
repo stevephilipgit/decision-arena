@@ -187,7 +187,7 @@ function LandingPage({ onEnter }) {
       </section>
 
       <footer style={L.footer}>
-        <span>Built with Claude AI · DecisionArena © 2025</span>
+        <span>steve philip © 2026</span>
       </footer>
     </div>
   );
