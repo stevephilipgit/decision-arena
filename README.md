@@ -113,7 +113,7 @@ Open `http://localhost:5173`
 
 ## Author
 
-**Your Name** — [LinkedIn](www.linkedin.com/in/steve-p-25459021a) · [GitHub](https://github.com/stevephilipgit/)
+**Steve Philip** — [LinkedIn](www.linkedin.com/in/steve-p-25459021a) · [GitHub](https://github.com/stevephilipgit/)
 
 ---
 
