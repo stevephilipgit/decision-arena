@@ -2,7 +2,7 @@
 
 > Two AI advisors argue both sides of any business decision — so your team sees every angle before committing.
 
-🔗 **Live Demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+🔗 **Live Demo:** [your-vercel-url.vercel.app](https://decision-arena-git-main-steve-philips-projects.vercel.app/)
 
 ---
 
@@ -20,7 +20,7 @@ Most teams make bad decisions because no one argues the other side hard enough. 
 
 | Landing | Arena | Decision Report |
 |---|---|---|
-| ![landing](screenshots/landing.png) | ![arena](screenshots/arena.png) | ![report](screenshots/report.png) |
+| ![landing](demo/decision-arena.png)  | ![report](demo/p2.png) | ![arena](demo/decision-arena2.png) |
 
 ---
 
@@ -113,7 +113,7 @@ Open `http://localhost:5173`
 
 ## Author
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/yourhandle) · [GitHub](https://github.com/yourusername)
+**Your Name** — [LinkedIn](www.linkedin.com/in/steve-p-25459021a) · [GitHub](https://github.com/stevephilipgit/)
 
 ---
 
